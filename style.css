@@ -1,5 +1,7 @@
+@import url(normalize.css);
+
 #container {
     background-color: lightsteelblue;
-    width: 980px;
+    width: 80%;
     margin: 0px auto;
 }
