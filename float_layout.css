@@ -1,0 +1,25 @@
+header{
+    height:100px;
+    background-color: lightcoral;
+}
+aside{
+    height:100px;
+    background-color: lightyellow;
+    width: 20%;
+    float: left;
+}
+section{
+    background-color: rgb(214, 173, 230);
+    width: 80%;
+    float: left;
+}
+footer{
+    height:100px;
+    background-color: lightgreen;
+    clear: both;
+}
+.poster{
+    text-align: center;
+    padding: 10px;
+    float: left;
+}
