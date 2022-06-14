@@ -1,0 +1,79 @@
+.logo{
+    display: block;
+    padding-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+nav{
+    background-color: #f6a5a7;
+    text-align: center;
+    font-size: 20px;
+    height: 92px;
+}
+nav li{
+    list-style-type: none;
+    display: inline-block;
+}
+nav li a{
+    display: block;
+    text-decoration: none;
+    padding: 30px;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    
+}
+nav li a:hover{
+    border-bottom: 5px solid lightgrey;
+}
+h2{
+    text-align: center;
+    color: black;
+    text-shadow: grey 0.1em 0.1em 0.1em;
+    letter-spacing: 20px;
+}
+.top-hr hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border: 3px solid #ee9698;
+    width: 50%;
+}
+.bottom-hr hr{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 3px solid #ee9698;
+    width: 50%;
+}
+.donation-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 2em;
+    letter-spacing: 10px;
+    margin: 40px;
+    margin-bottom: 50px;
+    gap: 100px;
+}
+.notes{
+    display: block;
+    padding-left: 500px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 20px;
+}
+
+footer{
+    height: 92px;
+    background-color: #f6a5a7;
+}
+footer p{
+    font-size: 15px;
+    text-align: center;
+    padding-top: 12px;
+    color: white;
+}
